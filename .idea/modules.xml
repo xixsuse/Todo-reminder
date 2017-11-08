@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://H:\TasksToDo-Android-App-master\TasksToDo.iml" filepath="H:\TasksToDo-Android-App-master\TasksToDo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TasksToDo-Android-App-master.iml" filepath="$PROJECT_DIR$/TasksToDo-Android-App-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://H:\TasksToDo-Android-App-master\app\app.iml" filepath="H:\TasksToDo-Android-App-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
